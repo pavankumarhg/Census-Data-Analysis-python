@@ -1,5 +1,5 @@
 # Census-Data-Analysis-python
-# Census-Data-Analysis-python
+
 Census Data Analysis Project
 Objective: Perform exploratory data analysis on census data to extract insights related to population distribution, literacy, worker demographics, and religious affiliations across districts.
 
